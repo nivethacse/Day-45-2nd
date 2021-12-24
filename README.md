@@ -1,1 +1,1 @@
-# URL Shortner backend deployed URL : https://siva-url-shortner.herokuapp.com
+# URL Shortner backend deployed URL : https://urlshortnerbk7.herokuapp.com/
